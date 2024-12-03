@@ -135,6 +135,7 @@ Tested and working on:
 - ThinkPad T490s, 20NXCTO1WW
 - ThinkPad X1 Yoga 4th, 20QFCTO1WW
 - Thinkpad P43s, 20RHCTO1WW
+- Thinkpad T480s, 20L8S8810E
 
 Reports of not working on:
 
